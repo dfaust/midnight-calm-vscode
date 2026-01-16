@@ -14,6 +14,10 @@ TypeScript:
 
 <img src="img/typescript.png" alt="TypeScript example" width="416" style="max-width:100%;height:auto;" />
 
+Terminal:
+
+<img src="img/terminal.png" alt="Terminal example" width="541" style="max-width:100%;height:auto;" />
+
 ## Preview
 
 Open this repository in VS Code and press **F5** (Run → Start Debugging) to open an Extension Development Host and try the theme.
