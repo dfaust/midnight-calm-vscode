@@ -280,25 +280,25 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#e87c66"
+				"foreground": "#e88572"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#e87c66"
+				"foreground": "#e88572"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#e87c66"
+				"foreground": "#e88572"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#e87c66"
+				"foreground": "#e88572"
 			}
 		},
 		{
@@ -612,7 +612,7 @@
 		"function": "#F3CE6A",
 		"method": "#F3CE6A",
 		"newOperator": "#5ca8e6",
-		"stringLiteral": "#e87c66",
+		"stringLiteral": "#e88572",
 		"customLiteral": "#dbdbdb",
 		"numberLiteral": "#89C983",
 		"keyword": "#5ca8e6",
