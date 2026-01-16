@@ -16,7 +16,7 @@ TypeScript:
 
 Terminal:
 
-<img src="img/terminal.png" alt="Terminal example" width="541" style="max-width:100%;height:auto;" />
+<img src="img/terminal.png" alt="Terminal example" width="535" style="max-width:100%;height:auto;" />
 
 ## Preview
 
