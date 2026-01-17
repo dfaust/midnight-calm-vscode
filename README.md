@@ -1,6 +1,6 @@
 # Midnight Calm
 
-![Build status](https://github.com/dfaust/midnight-calm-vscode/actions/workflows/package.yml/badge.svg)
+![Build status](https://github.com/dfaust/midnight-calm-theme/actions/workflows/package.yml/badge.svg)
 
 A minimal dark theme for VS Code and KDE Konsole, focused on Rust and TypeScript.
 
@@ -16,13 +16,13 @@ TypeScript:
 
 <img src="img/typescript.png" alt="TypeScript example" width="416" style="max-width:100%;height:auto;" />
 
-Terminal (VS Code):
+Terminal:
 
 <img src="img/terminal.png" alt="Terminal example" width="535" style="max-width:100%;height:auto;" />
 
 ### Installation
 
-Install the `.vsix` from the [releases](https://github.com/dfaust/midnight-calm-vscode/releases).
+Install the `.vsix` from the [releases](https://github.com/dfaust/midnight-calm-theme/releases).
 
 ### Packaging
 
