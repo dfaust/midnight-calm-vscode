@@ -2,7 +2,7 @@
   "name": "midnight-calm",
   "displayName": "Midnight Calm",
   "description": "A minimal dark theme focused on Rust and TypeScript",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "dfaust",
   "license": "MIT",
   "engines": {
