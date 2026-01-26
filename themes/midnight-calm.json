@@ -77,7 +77,7 @@
 			"name": "Comments",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#9ba298"
+				"foreground": "#b9beaf"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 		"typeParameter": "#c596c2",
 		"namespace": "#c596c2",
 		"macro": "#f6d279",
-		"comment": "#9ba298",
+		"comment": "#b9beaf",
 		"*.unsafe:rust": "#fa4545"
 	}
 }
