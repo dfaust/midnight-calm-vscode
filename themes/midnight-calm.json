@@ -176,7 +176,7 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#89C983"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#89C983"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#dbdbdb"
 			}
 		},
 		{
@@ -374,7 +374,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#89C983"
 			}
 		},
 		{
@@ -395,7 +395,7 @@
 		{
 			"scope": "constant.sha.git-rebase",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#89C983"
 			}
 		},
 		{
